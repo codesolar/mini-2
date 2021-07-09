@@ -1,0 +1,182 @@
+body {
+  font-family: Montserrat;
+}
+
+#title {
+  padding: 3% 13%;
+}
+/* container-fluid */
+.container-fluid {
+  padding: 0;
+}
+
+/* Navigation bar */
+.navbar {
+  padding: 0 0 3rem;
+  margin: 0;
+}
+.navbar-brand {
+  font-style: italic;
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+.logo{
+    width:4rem;
+    height:4rem;
+}
+.login {
+  font-weight: 600;
+  margin-right: 30px;
+  margin-top: 24px;
+  margin-left: 20px;
+  margin-bottom: 12px;
+  padding: 0;
+  border: none;
+  background: none;
+}
+.sign-up {
+  font-weight: 600;
+  margin: 18px;
+  background-color: #000000;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+#title-im {
+  text-align: center;
+}
+.title-image {
+  height: 37.5rem;
+  width: 62.5rem;
+}
+
+/* feature section */
+#features {
+  margin-top: 5%;
+  padding: 7% 15%;
+  background-color: #362222;
+}
+.feature-box {
+  text-align: center;
+  padding: 0 3% 0;
+}
+.icon {
+  padding-bottom: 4%;
+  color: #ff7600;
+}
+h3 {
+  font-family: Montserrat;
+  font-weight: 600;
+  color: #fff;
+}
+.feature-para {
+  font-family: Montserrat;
+  font-weight: 100;
+  color: #fff;
+}
+
+/* menu */
+#menu {
+  padding: 100px;
+}
+.menu-heading {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+.card {
+  border: none;
+}
+.card-img-div {
+  text-align: center;
+}
+
+.card-img-top {
+  height: 15rem;
+  width: 20rem;
+  float: left;
+  padding-right: 1rem;
+}
+
+.res-name {
+  font-style: Montserrat;
+  font-weight: 700;
+}
+
+.res-address {
+  width: 32rem;
+  height: 6rem;
+}
+
+.star {
+  color: #ffa900;
+}
+.ph {
+  color: #423f3e;
+}
+
+/* testimonial section */
+#testimonials{
+    text-align:center;
+    background-color:#865439;
+    color:#fff;
+}
+.carousel-inner{
+    padding:7% 15%;
+}
+.carousel-image{
+    width: 13rem;
+    height: 13rem;
+    margin-bottom:3rem;
+}
+.testionial-text{
+    font-family:Montserrat;
+    font-weight: 400;
+    width:1rem;
+}
+
+/* footer */
+#footer{
+    background-color:#000000;
+    color:#fff;
+    padding:7% 15%;
+}
+.company{
+    color:#423f3e;
+    font-style:Montserrat;
+    font-size:.9rem;
+    font-weight:700;
+    margin:1.8rem auto;
+}
+.com-list{
+    color:#fff;
+    font-style:Montserrat;
+    font-size:1rem;
+    font-weight:400;
+    margin-bottom:.8rem;
+}
+
+.for-you{
+    color:#423f3e;
+    font-style:Montserrat;
+    font-size:.9rem;
+    font-weight:700;
+    margin:1.8rem auto;
+}
+.terms-privacy{
+    color:#fff;
+    font-style:Montserrat;
+    font-size:1rem;
+    font-weight:400;
+    margin-bottom:.8rem;
+}
+
+/* .playstore{
+    margin:1rem;
+    height:70;
+    width:210;
+    color:#fff;
+}
+.appstore{
+    margin:1rem;
+} */
